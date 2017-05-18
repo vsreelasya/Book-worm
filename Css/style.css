@@ -1,0 +1,77 @@
+
+header {
+    padding: 1em;
+    color: black;
+    background-color: lightblue;
+}
+.container{
+    margin: 0 auto;
+    width:1024px;
+    box-sizing: border-box;
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    padding: 20px;
+}
+.headerBtn{
+    float:right;  
+    margin: 0 auto; 
+    margin-left: 10px; 
+    width:100px;
+    dispaly : flex;
+}
+.clearRight{
+    clear :right;
+}
+.Images{
+    width :300px;
+    display:block;
+    margin: 0 auto;
+}
+element.style{
+    width:300px;
+}
+.content{
+    text-align:center;
+}
+.loginbtn { 
+    background-color:#4CAF50;
+}
+footer{
+     padding: 1em;
+     color: black;
+     background-color: lightblue;
+     clear: left;
+     text-align: center;
+
+}
+article {
+    margin-left: 170px;
+    border-left: 1px solid gray;
+    padding: 1em;
+    overflow: hidden;
+}
+//login page
+input[type=text], input[type=password] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+}
+.cancelbtn,.signupbtn {
+    float: left;
+    width: 50%;
+}
+.cancelbtn {
+    padding: 14px 20px;
+    background-color: #f44336;
+}
+.signupbtn{
+    padding: 14px 20px;
+    background-color: #4CAF50;
+}
+form {
+    border: 3px solid #f1f1f1;
+}
+
