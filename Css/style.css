@@ -17,7 +17,7 @@ header {
     margin: 0 auto; 
     margin-left: 10px; 
     width:100px;
-    dispaly : flex;
+
 }
 .clearRight{
     clear :right;
@@ -60,18 +60,15 @@ input[type=text], input[type=password] {
     box-sizing: border-box;
 }
 .cancelbtn,.signupbtn {
-    float: left;
-    width: 50%;
-}
-.cancelbtn {
-    padding: 14px 20px;
-    background-color: #f44336;
-}
-.signupbtn{
-    padding: 14px 20px;
-    background-color: #4CAF50;
+
 }
 form {
     border: 3px solid #f1f1f1;
+}
+
+div .container {
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    padding: 20px;
 }
 
