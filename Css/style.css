@@ -35,6 +35,8 @@ element.style{
 }
 .loginbtn { 
     background-color:#4CAF50;
+    text-align:right;
+
 }
 footer{
      padding: 1em;
